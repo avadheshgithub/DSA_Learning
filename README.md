@@ -73,7 +73,6 @@ Check out my progress report to see which topics I've completed so far:
 - **Solved Problems**: Includes solutions to many famous problems.
 - **Code Snippets**: Each folder contains detailed code snippets and examples.
 
-
 ## 🛠 Technologies Used
 - **Programming Language**: C++
 - **Tools**: GitHub, VS Code, and various C++ libraries.
