@@ -62,7 +62,7 @@ Check out my progress report to see which topics I've completed so far:
 ## 🔗 Links to My Other Projects
 - [Python 30 Days](https://github.com/avadheshgithub/30-Days_Of-Python)
 ---
-## 📬 Contac
+## 📬 Contact
 - Email: avadheshkumarshah578@gmail.com
 - LinkedIn: [Avadhesh shah](https://linkedin.com/in/avadhesh-kumar-shah)
 - Twitter: [@Avadhesh](https://twitter.com/Avadhesh-shah)
