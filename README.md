@@ -4,7 +4,7 @@
 Welcome to my Data Structures and Algorithms (DSA) learning repository.  I will be learning and coding in C++, solving famous problems, and uploading my progress here.
 
 
-![DSA](https://via.placeholder.com/900x60.png?text=DSA+Learning+Journey) <!-- Replace with your own banner image -->
+![DSA](https://via.placeholder.com/900x60.png?text=DSA+Learning+Journey) <!-- Replace with your own  image -->
 
 ## 📅 Day Learning Plan
 
