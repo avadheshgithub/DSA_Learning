@@ -6,6 +6,7 @@ Welcome to my Data Structures and Algorithms (DSA) learning repository.  I will 
 
 ![DSA](https://via.placeholder.com/900x60.png?text=DSA+Learning+Journey) <!-- Replace with your own  image -->
 
+
 ## 📅 Day Learning Plan
 
 | Day  | Topic                        | Folder Link                                   | Description                                                                 |
