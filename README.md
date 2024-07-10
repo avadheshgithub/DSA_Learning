@@ -12,8 +12,8 @@ Welcome to my Data Structures and Algorithms (DSA) learning repository.  I will 
 | Day  | Topic                        | Folder Link                                   | Description                                                                 |
 |------|------------------------------|----------------------------------------------|-----------------------------------------------------------------------------|
 | Day 01 | [Introduction to C++](Day-01)          | [Day01](https://github.com/avadheshgithub/DSA_Learning___)         | Basics of C++, setup, and first program.                                   |
-| Day 02 | [Fundamentals of Programming 01](Day-02) | [Day02](https://github.com/avadheshgithub/DSA_Learning___)         | Variables, data types, operators.                                           |
-| Day 03 | [Fundamentals of Programming 02](Day-03) | [Day03](https://github.com/avadheshgithub/DSA_Learning___)         | Control structures, loops, and functions.                                  |
+| Day 02 | [Fundamentals of Programming 01](Day-02) | [Day02](https://github.com/avadheshgithub/DSA_Learning___)         | Variables, data types, operators.                                         |
+| Day 03 | [Fundamentals of Programming 02](Day-03) | [Day03](https://github.com/avadheshgithub/DSA_Learning___)         | Control structures, loops, and functions.                                 |
 | Day 04 | [Functions and Pointers](Day-04)        | [Day04](https://github.com/avadheshgithub/DSA_Learning___)         | Detailed study on functions and pointers.                                  |
 | Day 05 | [Arrays & Vectors (1D)](Day-05)         | [Day05](https://github.com/avadheshgithub/DSA_Learning___)         | Understanding and using 1D arrays and vectors.                             |
 | Day 06 | [Arrays & Vectors (2D)](Day-06)         | [Day06](https://github.com/avadheshgithub/DSA_Learning___)         | Understanding and using 2D arrays and vectors.                             |
