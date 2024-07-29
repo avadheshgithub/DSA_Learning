@@ -6,6 +6,17 @@ Welcome to my Data Structures and Algorithms (DSA) learning repository.  I will 
 
 ![DSA](https://via.placeholder.com/900x60.png?text=DSA+Learning+Journey) <!-- Replace with your own  image -->
 
+## 🚀 Progress Report
+
+Check out my progress report to see which topics I've completed so far:
+
+[![Progress Report](https://progress-bar.dev/10/?scale=30&title=DSA%20Progress&width=700&color=5d5d6e&suffix=%20days)](https://github.com/avadheshgithub/DSA-Learning)
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Progress&message=10%2F30&color=brightgreen" alt="Progress">
+</p>
 
 ## 📅 Day Learning Plan
 
@@ -43,17 +54,6 @@ Welcome to my Data Structures and Algorithms (DSA) learning repository.  I will 
 | Day 30 | [Conclusion](Day-30)                   | [Day30](https://github.com/avadheshgithub/DSA_Learning___)         | Summary and final thoughts.                                                |
 
 ---
-## 🚀 Progress Report
-
-Check out my progress report to see which topics I've completed so far:
-
-[![Progress Report](https://progress-bar.dev/10/?scale=30&title=DSA%20Progress&width=700&color=5d5d6e&suffix=%20days)](https://github.com/avadheshgithub/DSA-Learning)
-
-
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Progress&message=10%2F30&color=brightgreen" alt="Progress">
-</p>
 
 ---
 ## 📊 Learning Statistics
