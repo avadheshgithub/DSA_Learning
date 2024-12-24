@@ -4,15 +4,27 @@
 Welcome to my Data Structures and Algorithms (DSA) learning repository.  I will be learning and coding in C++, solving famous problems, and uploading my progress here.
 
 
-![DSA](https://via.placeholder.com/900x60.png?text=DSA+Learning+Journey) <!-- Replace with your own banner image -->
+![DSA](https://via.placeholder.com/900x60.png?text=DSA+Learning+Journey) <!-- Replace with your own  image -->
 
-## 📅 30-Day Learning Plan
+## 🚀 Progress Report
+
+Check out my progress report to see which topics I've completed so far:
+
+[![Progress Report](https://progress-bar.dev/10/?scale=30&title=DSA%20Progress&width=700&color=5d5d6e&suffix=%20days)](https://github.com/avadheshgithub/DSA-Learning)
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=Progress&message=10%2F30&color=brightgreen" alt="Progress">
+</p>
+
+## 📅 Day Learning Plan
 
 | Day  | Topic                        | Folder Link                                   | Description                                                                 |
 |------|------------------------------|----------------------------------------------|-----------------------------------------------------------------------------|
 | Day 01 | [Introduction to C++](Day-01)          | [Day01](https://github.com/avadheshgithub/DSA_Learning___)         | Basics of C++, setup, and first program.                                   |
-| Day 02 | [Fundamentals of Programming 01](Day-02) | [Day02](https://github.com/avadheshgithub/DSA_Learning___)         | Variables, data types, operators.                                           |
-| Day 03 | [Fundamentals of Programming 02](Day-03) | [Day03](https://github.com/avadheshgithub/DSA_Learning___)         | Control structures, loops, and functions.                                  |
+| Day 02 | [Fundamentals of Programming 01](Day-02) | [Day02](https://github.com/avadheshgithub/DSA_Learning___)         | Variables, data types, operators.                                         |
+| Day 03 | [Fundamentals of Programming 02](Day-03) | [Day03](https://github.com/avadheshgithub/DSA_Learning___)         | Control structures, loops, and functions.                                 |
 | Day 04 | [Functions and Pointers](Day-04)        | [Day04](https://github.com/avadheshgithub/DSA_Learning___)         | Detailed study on functions and pointers.                                  |
 | Day 05 | [Arrays & Vectors (1D)](Day-05)         | [Day05](https://github.com/avadheshgithub/DSA_Learning___)         | Understanding and using 1D arrays and vectors.                             |
 | Day 06 | [Arrays & Vectors (2D)](Day-06)         | [Day06](https://github.com/avadheshgithub/DSA_Learning___)         | Understanding and using 2D arrays and vectors.                             |
@@ -42,16 +54,6 @@ Welcome to my Data Structures and Algorithms (DSA) learning repository.  I will 
 | Day 30 | [Conclusion](Day-30)                   | [Day30](https://github.com/avadheshgithub/DSA_Learning___)         | Summary and final thoughts.                                                |
 
 ---
-## 🚀 Progress Report
-
-Check out my progress report to see which topics I've completed so far:
-
-[![Progress Report](https://progress-bar.dev/8/?scale=30&title=DSA%20Progress&width=700&color=5d5d6e&suffix=%20days)](https://github.com/avadheshgithub/DSA-Learning)
-
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Progress&message=8%2F30&color=brightgreen" alt="Progress">
-</p>
 
 ---
 ## 📊 Learning Statistics
@@ -62,7 +64,7 @@ Check out my progress report to see which topics I've completed so far:
 ## 🔗 Links to My Other Projects
 - [Python 30 Days](https://github.com/avadheshgithub/30-Days_Of-Python)
 ---
-## 📬 Contac
+## 📬 Contact
 - Email: avadheshkumarshah578@gmail.com
 - LinkedIn: [Avadhesh shah](https://linkedin.com/in/avadhesh-kumar-shah)
 - Twitter: [@Avadhesh](https://twitter.com/Avadhesh-shah)
@@ -72,7 +74,6 @@ Check out my progress report to see which topics I've completed so far:
 - **Real-time Progress**: Follow my daily progress with regular updates.
 - **Solved Problems**: Includes solutions to many famous problems.
 - **Code Snippets**: Each folder contains detailed code snippets and examples.
-
 
 ## 🛠 Technologies Used
 - **Programming Language**: C++
