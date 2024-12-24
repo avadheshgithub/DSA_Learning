@@ -12,7 +12,7 @@ Check out my progress report to see which topics I've completed so far:
 
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Progress&message=21%2F30&color=brightgreen" alt="Progress">
+  <img src="https://img.shields.io/static/v1?label=Progress&message=22%2F30&color=brightgreen" alt="Progress">
 </p>
 
 ## 📅 Day Learning Plan
