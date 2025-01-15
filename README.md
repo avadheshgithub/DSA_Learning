@@ -39,16 +39,17 @@ Check out my progress report to see which topics I've completed so far:
 | 18   | [Binary Tree](Sn-18)                  | Introduction to binary trees.                                              |
 | 19   | [Binary Search Tree](Sn-19)           | Understanding and implementing BST.                                        |
 | 20   | [Maps & Sets](Sn-20)                  | Using maps and sets in C++.                                                |
-| 21   | [Greedy](Sn-21)                       | Greedy algorithms and their applications.                                  |
-| 22   | [Dynamic Programming](Sn-22)          | Introduction to dynamic programming.                                       |
-| 23   | [Graphs](Sn-23)                       | Graph theory and algorithms.                                               |
-| 24   | [Backtracking](Sn-24)                 | Understanding backtracking techniques.                                     |
-| 25   | [Segment Trees](Sn-25)                | Introduction to segment trees.                                             |
-| 26   | [Error Handling](Sn-26)               | Error handling and exceptions in C++.                                      |
-| 27   | [Templates](Sn-27)                    | Understanding and using templates.                                         |
-| 28   | [STL Containers](Sn-28)               | Standard Template Library (STL) containers.                                |
-| 29   | [File Handling](Sn-29)                | Reading and writing files in C++.                                          |
-| 30   | [Conclusion](Sn-30)                   | Summary and final thoughts.                                                |
+| 21   | [Heaps](Sn-20)                        | Heaps algorithsm & problems in C++.                                                |
+| 22   | [Greedy](Sn-21)                       | Greedy algorithms and their applications.                                  |
+| 23   | [Dynamic Programming](Sn-22)          | Introduction to dynamic programming.                                       |
+| 24   | [Graphs](Sn-23)                       | Graph theory and algorithms.                                               |
+| 25   | [Backtracking](Sn-24)                 | Understanding backtracking techniques.                                     |
+| 26   | [Segment Trees](Sn-25)                | Introduction to segment trees.                                             |
+| 27   | [Error Handling](Sn-26)               | Error handling and exceptions in C++.                                      |
+| 28   | [Templates](Sn-27)                    | Understanding and using templates.                                         |
+| 29   | [STL Containers](Sn-28)               | Standard Template Library (STL) containers.                                |
+| 30   | [File Handling](Sn-29)                | Reading and writing files in C++.                                          |
+| 31   | [Conclusion](Sn-30)                   | Summary and final thoughts.                                                |
 
 ---
 
