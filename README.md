@@ -71,7 +71,7 @@ Check out my progress report to see which topics I've completed so far:
 ## 🌟 Highlights
 - **Real-time Progress**: Follow my daily progress with regular updates.
 - **Solved Problems**: Includes solutions to many famous problems.
-- **Code Snippets**: Each folder contains detailed code snippets and examples.
+- **Code Snippets**: Each folder contains detailed code snippets and examples
 
 ## 🛠 Technologies Used
 - **Programming Language**: C++
