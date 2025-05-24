@@ -8,7 +8,7 @@ Welcome to my Data Structures and Algorithms (DSA) learning repository.  I will 
 
 ## 🚀 Progress Report
 
-Check out my progress report to see which topics I've completed so far:
+Check out my progress report to see which topics I've completed:
 
 
 <p align="center">
